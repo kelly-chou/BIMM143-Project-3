@@ -1,4 +1,1 @@
-# hello-world
-testing
-
-Hi!
+Project 3
