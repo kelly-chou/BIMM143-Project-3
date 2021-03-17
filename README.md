@@ -3,5 +3,4 @@
 by Kelly Chou
 Winter 2021
 
-Flying Altitudes
-METTL8 gene
+Flying Altitudes vs METTL8 gene
